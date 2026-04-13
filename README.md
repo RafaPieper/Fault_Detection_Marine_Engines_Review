@@ -8,5 +8,3 @@ In this video, I provide a deep dive into my research on Prognostics and Health 
 
 [![The Future of SMART Vessels: AI & Marine Diesel Engines](https://img.youtube.com/vi/YdfIqsiNv_Y/0.jpg)](https://www.youtube.com/watch?v=YdfIqsiNv_Y)
 
-
-https://github.com/RafaPieper/Fault_Detection_Marine_Engines_Review/blob/main/Paper-Machine%20Learning%20Review%20for%20ship%20maintenance.pdf
