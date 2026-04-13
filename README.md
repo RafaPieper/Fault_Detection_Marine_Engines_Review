@@ -6,5 +6,7 @@ In this video, I provide a deep dive into my research on Prognostics and Health 
 
 [![Paper](https://img.shields.io/badge/Read_Paper-PDF-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/RafaPieper/Fault_Detection_Marine_Engines_Review/blob/main/Paper-Machine%20Learning%20Review%20for%20ship%20maintenance.pdf)
 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=YdfIqsiNv_Y)
+
 [![The Future of SMART Vessels: AI & Marine Diesel Engines](https://img.youtube.com/vi/YdfIqsiNv_Y/0.jpg)](https://www.youtube.com/watch?v=YdfIqsiNv_Y)
 
